@@ -1,0 +1,16 @@
+﻿[
+  {
+    "slug": "loyaltycircle",
+    "appName": "Loyalty Circle",
+    "applicationId": "com.loyaltycircle.mobile",
+    "brandName": "Loyalty Circle",
+    "apiKeyEnv": "APP_API_KEY_LOYALTYCIRCLE",
+    "deepLinkScheme": "loyaltycircle",
+    "logoText": "LC",
+    "primaryColor": "#D7FF5F",
+    "onPrimaryColor": "#101411",
+    "surfaceColor": "#0A0E0D",
+    "accentColor": "#F4F2E8",
+    "logoStyle": "circle"
+  }
+]
